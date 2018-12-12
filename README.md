@@ -1,6 +1,6 @@
 Create themes for your playstation classic!
 
-1. Put the contents of this folder on your USB Drive. You can leave out this read me file, the Default Theme Backup.zip, and Template.psd files if you want.
+1. Put the contents of this folder on your USB Drive (Make sure the drive label is SONY and is formatted to FAT32). You can leave out this read me file, the Default Theme Backup.zip, and Template.psd files if you want.
 
 2. unplug the power from your PlayStation classic
 
