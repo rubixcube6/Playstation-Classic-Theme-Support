@@ -17,3 +17,5 @@ If you don't have photoshop or just want to customize even more than the backgro
 Again pretty easy!
 
 Post your themes here! https://www.reddit.com/r/PlaystationClassic
+
+This uses lolhack, a payload launcher created by madmonkey.
