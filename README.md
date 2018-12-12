@@ -1,8 +1,8 @@
-Create themes for your playstation classic!
+Create themes for your PlayStation Classic!
 
 1. Put the contents of this folder on your USB Drive (Make sure the drive label is SONY and is formatted to FAT32).
 
-2. unplug the power from your PlayStation classic
+2. unplug the power from your PlayStation Classic
 
 3. Plug in the USB drive, plug the console back in and power it on.
 
