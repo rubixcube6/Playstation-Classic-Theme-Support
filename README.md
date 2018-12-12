@@ -8,7 +8,7 @@ Create themes for your PlayStation Classic!
 
 Easy!
 
-This does not modify any files on your system and goes back to normal upon reboot. (You have to unplug the power and plug it back in and power it on without the USB drive for it to go back to normal)
+You can customize backgrounds, icons, system sounds, and more! This does not modify any files on your system and goes back to normal upon reboot. (You have to unplug the power and plug it back in and power it on without the USB drive for it to go back to normal)
 
 To make a new theme background, use the Template.psd Photoshop file and save your image as "JP_US_BG.png". Put it in the theme\images\GR folder on your USB Drive and replace the existing file.
 
